@@ -1,14 +1,14 @@
-### Welcome!
-My name is Alex and i'm a full-stack web developer! 
-I love solving problems and exploring new tools and features. 
+# Welcome!
+ My name is Alex and i'm a full-stack web developer! </br>
+ I love solving problems and exploring new tools and features. 
+_____
+🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br>
+🌱 I’m currently learning Python
+_____
+ ### You can contact me via:
+* [Linkedin](https://www.linkedin.com/in/aleksandr-ardanov/)
+* [aleks.ardanov@gmail.com](mailto:aleks.ardanov@gmail.com)
 
-- 🔭 I’m currently working on [HRF Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr-ardanov&theme=nord)
