@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-(https://github-readme-stats.vercel.app/api?username=aleksandr-ardanov&theme=nord)](https://github.com/aleksandr-ardanov/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=aleksandr-ardanov)](https://github.com/aleksandr-ardanov/github-readme-stats)
 
 
 - 🔭 I’m currently working on 
