@@ -1,10 +1,8 @@
-### Hi there 👋
+### Welcome!
+My name is Alex and i'm a full-stack web developer! 
+I love solving problems and exploring new tools and features. 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr-ardanov&theme=nord)](https://github.com/aleksandr-ardanov/github-readme-stats)
-
-
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,3 +10,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr-ardanov&theme=nord)](https://github.com/aleksandr-ardanov/github-readme-stats)
