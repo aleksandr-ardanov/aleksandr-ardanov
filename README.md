@@ -3,7 +3,7 @@
  I love solving problems and exploring new tools and features. 
 _____
 🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br>
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python and TypeScript
 _____
  ### You can contact me via:
 * [Linkedin](https://www.linkedin.com/in/aleksandr-ardanov/)
