@@ -1,6 +1,6 @@
 # Welcome!
  My name is Alex and i'm a developer! </br>
- I love solving problems and exploring new tools and features. 
+ I love solving problems and exploring new tools and features. </br>
  I might be not active here for a while because I use Gitlab.
 _____
 <!-- 🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br> -->
