@@ -1,6 +1,7 @@
 # Welcome!
- My name is Alex and i'm a full-stack web developer! </br>
+ My name is Alex and i'm a developer! </br>
  I love solving problems and exploring new tools and features. 
+ I might be not active here for a while because I use Gitlab.
 _____
 <!-- 🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br> -->
 🌱 I’m currently learning Python and TypeScript
