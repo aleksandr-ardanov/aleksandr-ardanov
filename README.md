@@ -4,7 +4,7 @@
  I might be not active here for a while because I use Gitlab.
 _____
 <!-- 🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br> -->
-🌱 I’m currently learning Python and TypeScript
+🌱 I’m currently learning Java 
 _____
  ### You can contact me via:
 * [Linkedin](https://www.linkedin.com/in/aleksandr-ardanov/)
