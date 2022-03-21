@@ -1,7 +1,7 @@
 # Welcome!
- My name is Alex and i'm a developer! </br>
+ My name is Alex and I'm a Software Engineer! </br>
  I love solving problems and exploring new tools and features. </br>
- I might be not active here for a while because I use Gitlab.
+# I might be not active here for a while because I use Gitlab.
 _____
 <!-- 🔭 I’m currently working on [Human Rights First - Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) </br> -->
 🌱 I’m currently learning Java 
